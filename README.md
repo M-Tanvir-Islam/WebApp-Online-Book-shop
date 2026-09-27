@@ -1,4 +1,4 @@
-# Reader's Heaven — Online Book Shop
+# Online Book Shop
 
 A MERN stack bookshop prototype developed for my **2021 bachelor's thesis, “Role-Based Access Control in E-Commerce Web Application,”** at Jiangxi Normal University. The project explores how customer and administrator roles can be enforced in a full-stack e-commerce application. Its emphasis is on authentication, authorization, and the separation of permissions across the API and user interface.
 
